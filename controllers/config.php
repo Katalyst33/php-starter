@@ -1,0 +1,7 @@
+<?php
+$companyName = "Katalyst Website";
+
+
+
+
+?>

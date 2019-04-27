@@ -7,7 +7,7 @@
     <section id="footerItems">
         <div class="row mt-5">
             <div class="col-md-5 pl-lg-5">
-                <h3 class="text-white ">About Newagebot</h3>
+                <h3 class="text-white ">About Company</h3>
 
                 <p class="text-white text-justify">
                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad aperiam, architecto asperiores deleniti doloremque eaque facere hic id illum itaque molestias necessitatibus non numquam odit omnis placeat quas qui rem reprehenderit, repudiandae totam veritatis voluptatem voluptatum! Ad cumque, exercitationem explicabo, facere fugiat ipsa laboriosam maxime molestias praesentium quidem sed, tempora!
@@ -40,16 +40,6 @@
 </footer>
 
 
-<!-- Bootstrap core JavaScript
-   ================================================== -->
-
-<script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
-<script src='https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js'></script>
-<script src='https://cdnjs.cloudflare.com/ajax/libs/flexslider/2.6.1/jquery.flexslider.min.js'></script>
-<script src='https://cdnjs.cloudflare.com/ajax/libs/masonry/4.1.0/masonry.pkgd.min.js'></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
-        integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
-        crossorigin="anonymous"></script>
 
 
 
@@ -61,11 +51,7 @@
 
 
 
-<script src="./assets/js/bootstrap.min.js"></script>
-<script src="./assets/js/counter.js"></script>
-<script src="./assets/js/textfx.js"></script>
-<script src="./assets/js/progress.js"></script>
-<script  src="./assets/js/testimonial.js"></script>
+
 
 
 

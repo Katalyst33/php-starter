@@ -1,5 +1,8 @@
 @import "layouts/nav-bar";
+//@import "./components/main";
 
-body{
+html, body {
+  overflow-x: hidden;
   background-color: #1e7e34;
 }
+
